@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+        "title": "Xbox One X",
+        "desc": "Console Xbox One X com 1 controle",
+        "price": 450.00,
+        "image": "https://m.media-amazon.com/images/I/61ux1cU49XL._AC_SX679_.jpg",
+        "ratings": 4
+    },
+
+    {
+        "id": 2,
+        "title": "PlayStation 5",
+        "desc": "Console Playstation 5 com 1 controle",
+        "price": 600.00,
+        "image": "https://m.media-amazon.com/images/I/51VjZBvjOyL._AC_SX522_.jpg",
+        "ratings": 5
+    },
+
+    {
+        "id": 3,
+        "title": "Nintendo Switch",
+        "desc": "Console Nintendo Switch",
+        "price": 400.00,
+        "image": "https://m.media-amazon.com/images/I/61rLszWPavL._AC_SX679_.jpg",
+        "ratings": 6
+    },
+
+    {
+        "id": 4,
+        "title": "Nintendo Switch Lite",
+        "desc": "Console Nintendo Switch Lite",
+        "price": 350.00,
+        "image": "https://m.media-amazon.com/images/I/71qmF0FHj7L._AC_SX679_.jpg",
+        "ratings": 7
+    },
+
+    {
+        "id": 5,
+        "title": "Controle Xbox One",
+        "desc": "1 controle de Xbox One",
+        "price": 50.00,
+        "image": "https://images-americanas.b2w.io/produtos/01/00/item/116779/9/116779925_1GG.jpg",
+        "ratings": 8
+    },
+
+    {
+        "id": 6,
+        "title": "Controle PlayStation 5",
+        "desc": "1 controle de PlayStation 5",
+        "price": 50.00,
+        "image": "https://m.media-amazon.com/images/I/61PNh6TXHwS._AC_SL1500_.jpg",
+        "ratings": 9
+    }
+]
